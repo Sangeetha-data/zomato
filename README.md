@@ -45,18 +45,15 @@ All generated plots and analysis reports (if applicable) are saved in the `analy
 - `distribution_of_approx_cost.pdf`
 - `distribution_of_votes.pdf`
 - `rate_by_online_order.pdf`
-- `top_cuisines_comparison.pdf`
+- `top_cuisines_comparison.pdf` and etc
 
 ## Project Structure
 ```
 ds_Sangeetha/
 ├── csv_files/
 ├── outputs/
-├── notebook_1.ipynb
-├── notebook_2.ipynb
-├── ds_report.pdf
+├── zomato.ipynb
 ├── README.md
-└── analysis_reports/ (contains all generated plots)
 ```
 
 ## How to Use
